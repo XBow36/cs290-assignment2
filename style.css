@@ -40,3 +40,17 @@ color:black;
 dt:hover ~ dd{
 background-color:purple;
 }
+.outer-content{
+width: 75%;
+border: 5px solid;
+margin-top: 20px;
+    padding: 25px;
+    border: 5px solid navy;
+background-color: pink;
+}
+
+div{
+background-color:blue;
+width: 75%;
+text-align:center;
+}
