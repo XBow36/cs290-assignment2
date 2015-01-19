@@ -37,3 +37,6 @@ column-count: 2;
 font-style:normal;
 color:black;
 }
+dt:hover ~ dd{
+background-color:purple;
+}
